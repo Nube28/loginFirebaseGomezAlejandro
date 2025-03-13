@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115972827591",
+    "project_id": "ejemplologin-b5caf",
+    "storage_bucket": "ejemplologin-b5caf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115972827591:android:a3967162f8fb5b6c2cd1e2",
+        "android_client_info": {
+          "package_name": "gomez.alejandro.practicaautenticaciongomeza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIv77IRjpxGFTTvC6vrNSjvvOwz-xPtqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
